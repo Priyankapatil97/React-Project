@@ -1,0 +1,3 @@
+  git pull react main
+ 
+ git branch --set-upstream-to=<react>/ main
